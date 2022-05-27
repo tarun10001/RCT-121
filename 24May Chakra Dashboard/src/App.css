@@ -1,0 +1,17 @@
+.nav1 {
+  width: 3%;
+}
+.nav {
+  display: flex;
+  justify-content:space-between;
+  padding: 1%;
+}
+
+.text_div {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.job {
+  background-color:#EDF2F7;
+}
