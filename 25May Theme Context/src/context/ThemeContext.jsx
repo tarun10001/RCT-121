@@ -13,7 +13,6 @@ export const ThemeContextProvider = ({children}) => {
             setTheme(data.dark)
         }
     }
-
   return (
     <div>
         <ThemeContext.Provider value={[theme,handletoggle]}>
