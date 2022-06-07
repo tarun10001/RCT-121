@@ -1,0 +1,12 @@
+.nav_div {
+  background: rgb(40, 116, 103);
+  padding: 2%;
+  justify-content: space-around;
+  display: flex;
+}
+
+.todo {
+  justify-content: center;
+  align-items: center;
+  margin: 5% 10%;
+}
