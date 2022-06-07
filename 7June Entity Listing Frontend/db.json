@@ -1,0 +1,184 @@
+{
+  "products": [
+      {
+          "createdAt": "2022-05-21T15:44:38.267Z",
+          "name": "OnePlus Nord 2 5G (128GB ROM, 8GB RAM, DN2101, Grey Sierra)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1627022922/Croma%20Assets/Communication/Mobiles/Images/240337_h4iolz.png/mxw_240,f_auto",
+          "rating": 1005,
+          "title": "Corporate",
+          "price": 66042,
+          "id": "1"
+      },
+      {
+          "createdAt": "2022-05-22T01:03:45.461Z",
+          "name": "Vivo V21 (128GB ROM, 8GB RAM, PD2083BF_IN, Dusk Blue)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/h_300,w_300/v1618915810/Croma%20Assets/Communication/Mobiles/Images/234071_a31lqk.png/mxw_240,f_auto",
+          "rating": 1800,
+          "title": "Principal",
+          "price": 38119,
+          "id": "2"
+      },
+      {
+          "createdAt": "2022-05-22T09:32:19.705Z",
+          "name": "Oppo Reno 6 5G (128GB ROM, 8GB RAM, CPH2251)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/h_300,w_300/v1626327626/Croma%20Assets/Communication/Mobiles/Images/238811_c8td57.png/mxw_240,f_auto",
+          "rating": 8700,
+          "title": "Chief",
+          "price": 52024,
+          "id": "3"
+      },
+      {
+          "createdAt": "2022-05-22T11:15:01.796Z",
+          "name": "OnePlus 9R 128GB ROM, 8GB RAM, LE2101, Carbon Black",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1638452106/Croma%20Assets/Communication/Mobiles/Images/233910_yvmohs.png/mxw_1440,f_auto",
+          "rating": 1446,
+          "title": "Customer",
+          "price": 81020,
+          "id": "4"
+      },
+      {
+          "createdAt": "2022-05-22T03:34:41.077Z",
+          "name": "Samsung Galaxy S20 FE (128GB ROM, 8GB RAM, G780FN, Cloud Mint",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606069737/Croma%20Assets/Communication/Mobiles/Images/8992315899934.png/mxw_1440,f_auto",
+          "rating": 4756,
+          "title": "Forward",
+          "price": 89105,
+          "id": "5"
+      },
+      {
+          "createdAt": "2022-05-21T19:09:26.907Z",
+          "name": "Samsung Galaxy Z Fold3 5G (256GB ROM, 12GB RAM, SM-F926BZSD, Phantom Silver)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/h_300,w_300/v1639480276/Croma%20Assets/Communication/Mobiles/Images/242288_hvuaav.png/mxw_1440,f_auto",
+          "rating": 1350,
+          "title": "Global",
+          "price": 97313,
+          "id": "6"
+      },
+      {
+          "createdAt": "2022-05-22T04:39:56.585Z",
+          "name": "Samsung Galaxy M21 (64GB ROM, 4GB RAM, Light Blue)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/h_300,w_300/v1643703628/Croma%20Assets/Communication/Mobiles/Images/225543_ofd6jd.png/mxw_1440,f_auto",
+          "rating": 6537,
+          "title": "District",
+          "price": 63979,
+          "id": "7"
+      },
+      {
+          "createdAt": "2022-05-21T15:15:07.942Z",
+          "name": "Asus E410KA-EK001W Celeron Windows 11 Home Laptop (4GB RAM, 256GB SSD)",
+          "avatar": "https://media.croma.com/image/upload/v1644503735/Croma%20Assets/Computers%20Peripherals/Laptop/Images/246903_i5zkd2.png",
+          "rating": 7915,
+          "title": "Human",
+          "price": 98383,
+          "id": "8"
+      },
+      {
+          "createdAt": "2022-05-21T15:50:46.535Z",
+          "name": "Dell Inspiron 3515 Ryzen 5 Windows 11 Notebook (8GB RAM, 1TB HDD, 256GB SSD,",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1642492381/Croma%20Assets/Computers%20Peripherals/Laptop/Images/247391_wfnctw.png/mxw_1440,f_auto",
+          "rating": 4393,
+          "title": "Chief",
+          "price": 68887,
+          "id": "9"
+      },
+      {
+          "createdAt": "2022-05-22T10:33:07.869Z",
+          "name": "Microsoft Surface Studio 11th Gen Core i7 Windows 11 2-in-1 Laptop (16GB RAM, 512GB SSD)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1644911526/Croma%20Assets/Computers%20Peripherals/Laptop/Images/248683_u0w2u0.png/mxw_1440,f_auto",
+          "rating": 1600,
+          "title": "Internal",
+          "price": 13937,
+          "id": "10"
+      },
+      {
+          "createdAt": "2022-05-21T21:45:39.983Z",
+          "name": "Croma Fire TV 80cm (32 Inch) HD Ready LED Smart TV (Alexa Voice Assistant Remote, CREL7364, Black)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1631084878/Croma%20Assets/Entertainment/Television/Images/242944_e5jvij.png/mxw_1440,f_auto",
+          "rating": 6810,
+          "title": "Corporate",
+          "price": 16694,
+          "id": "11"
+      },
+      {
+          "createdAt": "2022-05-22T13:04:33.530Z",
+          "name": "Croma Fire TV 127cm (50 Inch) Ultra HD 4K LED Smart TV (3 Years Warranty,",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1641446371/Croma%20Assets/Entertainment/Television/Images/246263_ukaju8.png/mxw_2048,f_auto",
+          "rating": 2832,
+          "title": "Dynamic",
+          "price": 6452,
+          "id": "12"
+      },
+      {
+          "createdAt": "2022-05-22T10:45:26.360Z",
+          "name": "Samsung Series 4 T4350 80 cm (32 inch) HD Ready LED Smart TV (UA32T4350AKXXL, Black)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606073956/Croma%20Assets/Entertainment/Television/Images/9007409725470.png/mxw_1440,f_auto",
+          "rating": 1856,
+          "title": "Human",
+          "price": 36134,
+          "id": "13"
+      },
+      {
+          "createdAt": "2022-05-22T05:52:08.686Z",
+          "name": "Samsung 4 Series 80cm (32 Inch) HD Ready LED Smart TV (Wi-Fi Supported, UA32T4450AKLXL, Titan Grey)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/h_300,w_300/v1618648791/Croma%20Assets/Entertainment/Television/Images/234144_bpl1rp.png/mxw_1440,f_auto",
+          "rating": 3046,
+          "title": "Regional",
+          "price": 7731,
+          "id": "14"
+      },
+      {
+          "createdAt": "2022-05-21T15:21:40.647Z",
+          "name": "Vivo T1 5G (128GB ROM, 4GB RAM, PD2165CF_IN, Rainbow Fantasy)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1644497504/Croma%20Assets/Communication/Mobiles/Images/248228_ryile9.png/mxw_1440,f_auto",
+          "rating": 1322,
+          "title": "National",
+          "price": 40706,
+          "id": "15"
+      },
+      {
+          "createdAt": "2022-05-21T18:23:54.554Z",
+          "name": "Vivo Y20A (64GB ROM, 3GB RAM, Dawn White)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1609746509/Croma%20Assets/Communication/Mobiles/Images/231590_dknho3.png/mxw_1440,f_auto",
+          "rating": 5615,
+          "title": "Direct",
+          "price": 64975,
+          "id": "16"
+      },
+      {
+          "createdAt": "2022-05-21T14:35:17.429Z",
+          "name": "Vivo X50 (Glaze Black, 256 GB, 8 GB RAM)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605305714/Croma%20Assets/Communication/Mobiles/Images/8958086086686.png/mxw_1440,f_auto",
+          "rating": 1458,
+          "title": "Product",
+          "price": 98338,
+          "id": "17"
+      },
+      {
+          "createdAt": "2022-05-21T20:43:26.176Z",
+          "name": "Nokia G10 (64GB ROM, 4GB RAM, Dusk)",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1632294355/Croma%20Assets/Communication/Mobiles/Images/243366_r9vqfd.png/mxw_1440,f_auto",
+          "rating": 17007,
+          "title": "International",
+          "price": 91325,
+          "id": "18"
+      },
+      {
+          "createdAt": "2022-05-22T03:26:19.925Z",
+          "name": "Asus ExpertBook B9 (B9450FA-BM0696R) Core i7 10th Gen Windows 10 Pro Laptop",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606483326/Croma%20Assets/Computers%20Peripherals/Laptop/Images/9000567799838.png/mxw_2048,f_auto",
+          "rating": 7140,
+          "title": "International",
+          "price": 30204,
+          "id": "19"
+      },
+      {
+          "createdAt": "2022-05-22T11:16:17.415Z",
+          "name": "Lenovo Ideapad 3 11th Gen Core i3 Windows 11 Laptop ",
+          "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1648618522/Croma%20Assets/Computers%20Peripherals/Laptop/Images/250147_rg9brx.png/mxw_2048,f_auto",
+          "rating": 8553,
+          "price" : 49999,
+          "title": "National",
+          "id": "20"
+      }
+  ]
+}
